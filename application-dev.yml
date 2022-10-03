@@ -3,4 +3,4 @@ server:
   servlet:
     context-path: /client1
  
-demo.message: "I am client1"
+demo.message: "Test client1"
