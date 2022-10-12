@@ -5,3 +5,4 @@ server:
  
 client2.message: "I am client2"
 demo.message: "Test message Refreshed for client 2 from local"
+management.endpoints.web.exposure.include: *
