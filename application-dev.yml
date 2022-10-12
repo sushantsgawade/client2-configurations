@@ -1,6 +1,7 @@
 server:
   port: 8080
   servlet:
-    context-path: /client1
+    context-path: /client2
  
-demo.message: "I am client1"
+client2.message: "I am client2"
+demo.message: "Test message"
