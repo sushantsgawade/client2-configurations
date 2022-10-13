@@ -4,5 +4,5 @@ server:
     context-path: /client2
  
 client2.message: "I am client2"
-demo.message: "Test Busrefresh yet again Attempt 11 - InvokeRefresh"
+demo.message: "Attempt Timer"
 management.endpoints.web.exposure.include: "*"
