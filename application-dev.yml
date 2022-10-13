@@ -4,5 +4,5 @@ server:
     context-path: /client2
  
 client2.message: "I am client2"
-demo.message: "InvokeRefresh working as expected - Test from push monitor 3rd Attempt"
+demo.message: "Changing whole demo message for client 2"
 management.endpoints.web.exposure.include: "*"
