@@ -4,5 +4,5 @@ server:
     context-path: /client2
  
 client2.message: "I am client2"
-demo.message: "Attempt Timer"
+demo.message: "Test Instances"
 management.endpoints.web.exposure.include: "*"
