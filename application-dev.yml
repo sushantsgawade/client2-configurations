@@ -4,5 +4,5 @@ server:
     context-path: /client2
  
 client2.message: "I am client2"
-demo.message: "DEMO MESSAGE Change Impact"
+demo.message: "Test Monitor yet again"
 management.endpoints.web.exposure.include: "*"
